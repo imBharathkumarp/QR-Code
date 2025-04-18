@@ -1,7 +1,7 @@
 import qrcode
 
 # Image URL (this can be your own hosted image)
-image_url = "https://maps.app.goo.gl/fPyXt2qge7tXisqu8"
+image_url = "https://www.linkedin.com/in/imbharathkumarp/"
 
 # Generate QR code
 qr = qrcode.make(image_url)
